@@ -1,2 +1,2 @@
 # PPRG
-PPRG | SEM I
+Projekt semestralny wraz z zadaniami na labach.
